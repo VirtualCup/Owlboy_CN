@@ -6,7 +6,7 @@
 
 ## 更新历史
 **补丁版本：v1.0 （内容版本ID：2664090）**
-> 对游戏的全部文本、图片进行重译。
+> 对游戏的全部文本、图片进行重译。   
 > 修正游戏字体模糊的问题。
 
 ## 补充说明
@@ -21,3 +21,9 @@
 * 欢迎转载或用于实况，但请注明来源和相关信息。  
 
 # 效果预览
+![预览图 0](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Preview_0.png?raw=true "预览图 0")  
+![预览图 1](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Preview_1.png?raw=true "预览图 1")   
+![预览图 2](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Preview_2.png?raw=true "预览图 2")  
+![预览图 3](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Preview_3.png?raw=true "预览图 3")  
+![预览图 4](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Preview_4.png?raw=true "预览图 4")  
+![预览图 5](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Preview_5.png?raw=true "预览图 5")  
