@@ -91,7 +91,7 @@ with.
       <CharacterRegion><Start>书</Start><End>书</End></CharacterRegion>
       <CharacterRegion><Start>买</Start><End>乱</End></CharacterRegion>
       <CharacterRegion><Start>了</Start><End>了</End></CharacterRegion>
-      <CharacterRegion><Start>争</Start><End>争</End></CharacterRegion>
+      <CharacterRegion><Start>予</Start><End>争</End></CharacterRegion>
       <CharacterRegion><Start>事</Start><End>二</End></CharacterRegion>
       <CharacterRegion><Start>于</Start><End>亏</End></CharacterRegion>
       <CharacterRegion><Start>云</Start><End>云</End></CharacterRegion>
@@ -191,7 +191,6 @@ with.
       <CharacterRegion><Start>净</Start><End>净</End></CharacterRegion>
       <CharacterRegion><Start>准</Start><End>准</End></CharacterRegion>
       <CharacterRegion><Start>减</Start><End>减</End></CharacterRegion>
-      <CharacterRegion><Start>凑</Start><End>凑</End></CharacterRegion>
       <CharacterRegion><Start>凝</Start><End>凝</End></CharacterRegion>
       <CharacterRegion><Start>几</Start><End>凡</End></CharacterRegion>
       <CharacterRegion><Start>凶</Start><End>凶</End></CharacterRegion>
@@ -216,7 +215,7 @@ with.
       <CharacterRegion><Start>劝</Start><End>务</End></CharacterRegion>
       <CharacterRegion><Start>劣</Start><End>劣</End></CharacterRegion>
       <CharacterRegion><Start>动</Start><End>劫</End></CharacterRegion>
-      <CharacterRegion><Start>励</Start><End>劳</End></CharacterRegion>
+      <CharacterRegion><Start>劲</Start><End>劳</End></CharacterRegion>
       <CharacterRegion><Start>势</Start><End>势</End></CharacterRegion>
       <CharacterRegion><Start>勇</Start><End>勇</End></CharacterRegion>
       <CharacterRegion><Start>勉</Start><End>勉</End></CharacterRegion>
@@ -274,7 +273,6 @@ with.
       <CharacterRegion><Start>呃</Start><End>呃</End></CharacterRegion>
       <CharacterRegion><Start>呆</Start><End>呆</End></CharacterRegion>
       <CharacterRegion><Start>告</Start><End>告</End></CharacterRegion>
-      <CharacterRegion><Start>呐</Start><End>呐</End></CharacterRegion>
       <CharacterRegion><Start>员</Start><End>员</End></CharacterRegion>
       <CharacterRegion><Start>呜</Start><End>呜</End></CharacterRegion>
       <CharacterRegion><Start>呢</Start><End>呢</End></CharacterRegion>
@@ -345,7 +343,6 @@ with.
       <CharacterRegion><Start>在</Start><End>在</End></CharacterRegion>
       <CharacterRegion><Start>地</Start><End>地</End></CharacterRegion>
       <CharacterRegion><Start>场</Start><End>场</End></CharacterRegion>
-      <CharacterRegion><Start>坍</Start><End>坍</End></CharacterRegion>
       <CharacterRegion><Start>坏</Start><End>坐</End></CharacterRegion>
       <CharacterRegion><Start>块</Start><End>块</End></CharacterRegion>
       <CharacterRegion><Start>坚</Start><End>坚</End></CharacterRegion>
@@ -484,7 +481,7 @@ with.
       <CharacterRegion><Start>干</Start><End>年</End></CharacterRegion>
       <CharacterRegion><Start>并</Start><End>并</End></CharacterRegion>
       <CharacterRegion><Start>幸</Start><End>幸</End></CharacterRegion>
-      <CharacterRegion><Start>幻</Start><End>幽</End></CharacterRegion>
+      <CharacterRegion><Start>幼</Start><End>幽</End></CharacterRegion>
       <CharacterRegion><Start>广</Start><End>广</End></CharacterRegion>
       <CharacterRegion><Start>庄</Start><End>庄</End></CharacterRegion>
       <CharacterRegion><Start>庆</Start><End>庇</End></CharacterRegion>
@@ -513,7 +510,7 @@ with.
       <CharacterRegion><Start>影</Start><End>影</End></CharacterRegion>
       <CharacterRegion><Start>役</Start><End>役</End></CharacterRegion>
       <CharacterRegion><Start>彻</Start><End>彼</End></CharacterRegion>
-      <CharacterRegion><Start>往</Start><End>往</End></CharacterRegion>
+      <CharacterRegion><Start>往</Start><End>征</End></CharacterRegion>
       <CharacterRegion><Start>待</Start><End>待</End></CharacterRegion>
       <CharacterRegion><Start>很</Start><End>很</End></CharacterRegion>
       <CharacterRegion><Start>律</Start><End>律</End></CharacterRegion>
@@ -541,6 +538,7 @@ with.
       <CharacterRegion><Start>总</Start><End>总</End></CharacterRegion>
       <CharacterRegion><Start>恐</Start><End>恐</End></CharacterRegion>
       <CharacterRegion><Start>恒</Start><End>恒</End></CharacterRegion>
+      <CharacterRegion><Start>恕</Start><End>恕</End></CharacterRegion>
       <CharacterRegion><Start>恙</Start><End>恙</End></CharacterRegion>
       <CharacterRegion><Start>恢</Start><End>恢</End></CharacterRegion>
       <CharacterRegion><Start>恩</Start><End>恩</End></CharacterRegion>
@@ -557,7 +555,7 @@ with.
       <CharacterRegion><Start>情</Start><End>情</End></CharacterRegion>
       <CharacterRegion><Start>惊</Start><End>惊</End></CharacterRegion>
       <CharacterRegion><Start>惜</Start><End>惜</End></CharacterRegion>
-      <CharacterRegion><Start>惦</Start><End>惩</End></CharacterRegion>
+      <CharacterRegion><Start>惧</Start><End>惩</End></CharacterRegion>
       <CharacterRegion><Start>惬</Start><End>惬</End></CharacterRegion>
       <CharacterRegion><Start>惮</Start><End>惯</End></CharacterRegion>
       <CharacterRegion><Start>想</Start><End>想</End></CharacterRegion>
@@ -805,6 +803,7 @@ with.
       <CharacterRegion><Start>泄</Start><End>泄</End></CharacterRegion>
       <CharacterRegion><Start>泉</Start><End>泉</End></CharacterRegion>
       <CharacterRegion><Start>法</Start><End>法</End></CharacterRegion>
+      <CharacterRegion><Start>泛</Start><End>泛</End></CharacterRegion>
       <CharacterRegion><Start>泡</Start><End>波</End></CharacterRegion>
       <CharacterRegion><Start>注</Start><End>注</End></CharacterRegion>
       <CharacterRegion><Start>泰</Start><End>泰</End></CharacterRegion>
@@ -818,10 +817,9 @@ with.
       <CharacterRegion><Start>流</Start><End>流</End></CharacterRegion>
       <CharacterRegion><Start>浆</Start><End>浆</End></CharacterRegion>
       <CharacterRegion><Start>测</Start><End>测</End></CharacterRegion>
-      <CharacterRegion><Start>浏</Start><End>浏</End></CharacterRegion>
       <CharacterRegion><Start>浑</Start><End>浑</End></CharacterRegion>
       <CharacterRegion><Start>浓</Start><End>浓</End></CharacterRegion>
-      <CharacterRegion><Start>浩</Start><End>浪</End></CharacterRegion>
+      <CharacterRegion><Start>浪</Start><End>浪</End></CharacterRegion>
       <CharacterRegion><Start>浮</Start><End>浮</End></CharacterRegion>
       <CharacterRegion><Start>浴</Start><End>浴</End></CharacterRegion>
       <CharacterRegion><Start>海</Start><End>浸</End></CharacterRegion>
@@ -973,7 +971,7 @@ with.
       <CharacterRegion><Start>祈</Start><End>祈</End></CharacterRegion>
       <CharacterRegion><Start>祝</Start><End>神</End></CharacterRegion>
       <CharacterRegion><Start>祥</Start><End>祥</End></CharacterRegion>
-      <CharacterRegion><Start>祷</Start><End>祷</End></CharacterRegion>
+      <CharacterRegion><Start>祷</Start><End>祸</End></CharacterRegion>
       <CharacterRegion><Start>禁</Start><End>禁</End></CharacterRegion>
       <CharacterRegion><Start>离</Start><End>离</End></CharacterRegion>
       <CharacterRegion><Start>秀</Start><End>私</End></CharacterRegion>
@@ -1013,6 +1011,7 @@ with.
       <CharacterRegion><Start>筋</Start><End>筋</End></CharacterRegion>
       <CharacterRegion><Start>筑</Start><End>筑</End></CharacterRegion>
       <CharacterRegion><Start>答</Start><End>答</End></CharacterRegion>
+      <CharacterRegion><Start>策</Start><End>策</End></CharacterRegion>
       <CharacterRegion><Start>简</Start><End>简</End></CharacterRegion>
       <CharacterRegion><Start>算</Start><End>算</End></CharacterRegion>
       <CharacterRegion><Start>管</Start><End>管</End></CharacterRegion>
@@ -1033,7 +1032,6 @@ with.
       <CharacterRegion><Start>索</Start><End>索</End></CharacterRegion>
       <CharacterRegion><Start>紧</Start><End>紧</End></CharacterRegion>
       <CharacterRegion><Start>累</Start><End>累</End></CharacterRegion>
-      <CharacterRegion><Start>繁</Start><End>繁</End></CharacterRegion>
       <CharacterRegion><Start>纠</Start><End>纠</End></CharacterRegion>
       <CharacterRegion><Start>红</Start><End>红</End></CharacterRegion>
       <CharacterRegion><Start>约</Start><End>级</End></CharacterRegion>
@@ -1054,8 +1052,8 @@ with.
       <CharacterRegion><Start>绩</Start><End>绪</End></CharacterRegion>
       <CharacterRegion><Start>续</Start><End>续</End></CharacterRegion>
       <CharacterRegion><Start>维</Start><End>维</End></CharacterRegion>
-      <CharacterRegion><Start>绷</Start><End>绷</End></CharacterRegion>
       <CharacterRegion><Start>绿</Start><End>绿</End></CharacterRegion>
+      <CharacterRegion><Start>缅</Start><End>缅</End></CharacterRegion>
       <CharacterRegion><Start>缓</Start><End>缓</End></CharacterRegion>
       <CharacterRegion><Start>缝</Start><End>缝</End></CharacterRegion>
       <CharacterRegion><Start>缠</Start><End>缠</End></CharacterRegion>
@@ -1063,6 +1061,7 @@ with.
       <CharacterRegion><Start>罐</Start><End>网</End></CharacterRegion>
       <CharacterRegion><Start>罗</Start><End>罗</End></CharacterRegion>
       <CharacterRegion><Start>罢</Start><End>罢</End></CharacterRegion>
+      <CharacterRegion><Start>罪</Start><End>罪</End></CharacterRegion>
       <CharacterRegion><Start>置</Start><End>置</End></CharacterRegion>
       <CharacterRegion><Start>羊</Start><End>羊</End></CharacterRegion>
       <CharacterRegion><Start>美</Start><End>美</End></CharacterRegion>
@@ -1083,7 +1082,6 @@ with.
       <CharacterRegion><Start>耳</Start><End>耳</End></CharacterRegion>
       <CharacterRegion><Start>耶</Start><End>耶</End></CharacterRegion>
       <CharacterRegion><Start>耻</Start><End>耻</End></CharacterRegion>
-      <CharacterRegion><Start>耿</Start><End>耿</End></CharacterRegion>
       <CharacterRegion><Start>聆</Start><End>聆</End></CharacterRegion>
       <CharacterRegion><Start>聊</Start><End>职</End></CharacterRegion>
       <CharacterRegion><Start>聚</Start><End>聚</End></CharacterRegion>
@@ -1091,9 +1089,10 @@ with.
       <CharacterRegion><Start>肆</Start><End>肆</End></CharacterRegion>
       <CharacterRegion><Start>肉</Start><End>肉</End></CharacterRegion>
       <CharacterRegion><Start>肌</Start><End>肌</End></CharacterRegion>
-      <CharacterRegion><Start>股</Start><End>股</End></CharacterRegion>
+      <CharacterRegion><Start>肠</Start><End>股</End></CharacterRegion>
       <CharacterRegion><Start>肩</Start><End>肩</End></CharacterRegion>
       <CharacterRegion><Start>肯</Start><End>肯</End></CharacterRegion>
+      <CharacterRegion><Start>育</Start><End>育</End></CharacterRegion>
       <CharacterRegion><Start>胀</Start><End>胁</End></CharacterRegion>
       <CharacterRegion><Start>胆</Start><End>胆</End></CharacterRegion>
       <CharacterRegion><Start>背</Start><End>背</End></CharacterRegion>
@@ -1115,7 +1114,7 @@ with.
       <CharacterRegion><Start>膝</Start><End>膝</End></CharacterRegion>
       <CharacterRegion><Start>膨</Start><End>膨</End></CharacterRegion>
       <CharacterRegion><Start>自</Start><End>自</End></CharacterRegion>
-      <CharacterRegion><Start>至</Start><End>至</End></CharacterRegion>
+      <CharacterRegion><Start>至</Start><End>致</End></CharacterRegion>
       <CharacterRegion><Start>舒</Start><End>舒</End></CharacterRegion>
       <CharacterRegion><Start>舞</Start><End>舞</End></CharacterRegion>
       <CharacterRegion><Start>航</Start><End>航</End></CharacterRegion>
@@ -1166,6 +1165,7 @@ with.
       <CharacterRegion><Start>补</Start><End>补</End></CharacterRegion>
       <CharacterRegion><Start>表</Start><End>表</End></CharacterRegion>
       <CharacterRegion><Start>衫</Start><End>衫</End></CharacterRegion>
+      <CharacterRegion><Start>衷</Start><End>衷</End></CharacterRegion>
       <CharacterRegion><Start>袋</Start><End>袋</End></CharacterRegion>
       <CharacterRegion><Start>袍</Start><End>袍</End></CharacterRegion>
       <CharacterRegion><Start>袖</Start><End>袖</End></CharacterRegion>
@@ -1223,7 +1223,6 @@ with.
       <CharacterRegion><Start>谱</Start><End>谱</End></CharacterRegion>
       <CharacterRegion><Start>象</Start><End>象</End></CharacterRegion>
       <CharacterRegion><Start>豪</Start><End>豫</End></CharacterRegion>
-      <CharacterRegion><Start>貌</Start><End>貌</End></CharacterRegion>
       <CharacterRegion><Start>贝</Start><End>贝</End></CharacterRegion>
       <CharacterRegion><Start>负</Start><End>负</End></CharacterRegion>
       <CharacterRegion><Start>责</Start><End>责</End></CharacterRegion>
@@ -1270,8 +1269,7 @@ with.
       <CharacterRegion><Start>辈</Start><End>辉</End></CharacterRegion>
       <CharacterRegion><Start>辑</Start><End>辑</End></CharacterRegion>
       <CharacterRegion><Start>输</Start><End>输</End></CharacterRegion>
-      <CharacterRegion><Start>辜</Start><End>辜</End></CharacterRegion>
-      <CharacterRegion><Start>辨</Start><End>辨</End></CharacterRegion>
+      <CharacterRegion><Start>辛</Start><End>辜</End></CharacterRegion>
       <CharacterRegion><Start>辱</Start><End>辱</End></CharacterRegion>
       <CharacterRegion><Start>边</Start><End>边</End></CharacterRegion>
       <CharacterRegion><Start>达</Start><End>达</End></CharacterRegion>
@@ -1308,7 +1306,6 @@ with.
       <CharacterRegion><Start>邃</Start><End>邃</End></CharacterRegion>
       <CharacterRegion><Start>那</Start><End>那</End></CharacterRegion>
       <CharacterRegion><Start>邦</Start><End>邦</End></CharacterRegion>
-      <CharacterRegion><Start>邪</Start><End>邪</End></CharacterRegion>
       <CharacterRegion><Start>邻</Start><End>邻</End></CharacterRegion>
       <CharacterRegion><Start>部</Start><End>部</End></CharacterRegion>
       <CharacterRegion><Start>都</Start><End>都</End></CharacterRegion>
@@ -1362,7 +1359,6 @@ with.
       <CharacterRegion><Start>险</Start><End>陪</End></CharacterRegion>
       <CharacterRegion><Start>陷</Start><End>陷</End></CharacterRegion>
       <CharacterRegion><Start>随</Start><End>隐</End></CharacterRegion>
-      <CharacterRegion><Start>障</Start><End>障</End></CharacterRegion>
       <CharacterRegion><Start>难</Start><End>难</End></CharacterRegion>
       <CharacterRegion><Start>雄</Start><End>雄</End></CharacterRegion>
       <CharacterRegion><Start>集</Start><End>集</End></CharacterRegion>
@@ -1377,8 +1373,7 @@ with.
       <CharacterRegion><Start>青</Start><End>青</End></CharacterRegion>
       <CharacterRegion><Start>静</Start><End>静</End></CharacterRegion>
       <CharacterRegion><Start>非</Start><End>非</End></CharacterRegion>
-      <CharacterRegion><Start>靠</Start><End>靠</End></CharacterRegion>
-      <CharacterRegion><Start>面</Start><End>面</End></CharacterRegion>
+      <CharacterRegion><Start>靠</Start><End>面</End></CharacterRegion>
       <CharacterRegion><Start>革</Start><End>革</End></CharacterRegion>
       <CharacterRegion><Start>音</Start><End>音</End></CharacterRegion>
       <CharacterRegion><Start>韵</Start><End>韵</End></CharacterRegion>
