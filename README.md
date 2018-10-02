@@ -1,5 +1,5 @@
 ## 游戏介绍
-![封面](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Cover.png?raw=true "封面")
+![封面](https://github.com/VirtualCup/Owlboy_CN/blob/master/Preview/Cover.png?raw=true "封面")
 《[猫头鹰男孩](https://store.steampowered.com/app/115800/)》是一款充满魅力的2D动作冒险游戏，有苦有甜的故事让人难以忘怀。
 
 ## 补丁目的
@@ -27,9 +27,9 @@
 * 欢迎转载或用于实况，但请注明来源和相关信息。  
 
 # 效果预览
-![预览图 0](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Preview_0.png?raw=true "预览图 0")  
-![预览图 1](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Preview_1.png?raw=true "预览图 1")   
-![预览图 2](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Preview_2.png?raw=true "预览图 2")  
-![预览图 3](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Preview_3.png?raw=true "预览图 3")  
-![预览图 4](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Preview_4.png?raw=true "预览图 4")  
-![预览图 5](https://github.com/VirtualCup/Owlboy_CN/blob/develop/Preview/Preview_5.png?raw=true "预览图 5")  
+![预览图 0](https://github.com/VirtualCup/Owlboy_CN/blob/master/Preview/Preview_0.png?raw=true "预览图 0")  
+![预览图 1](https://github.com/VirtualCup/Owlboy_CN/blob/master/Preview/Preview_1.png?raw=true "预览图 1")   
+![预览图 2](https://github.com/VirtualCup/Owlboy_CN/blob/master/Preview/Preview_2.png?raw=true "预览图 2")  
+![预览图 3](https://github.com/VirtualCup/Owlboy_CN/blob/master/Preview/Preview_3.png?raw=true "预览图 3")  
+![预览图 4](https://github.com/VirtualCup/Owlboy_CN/blob/master/Preview/Preview_4.png?raw=true "预览图 4")  
+![预览图 5](https://github.com/VirtualCup/Owlboy_CN/blob/master/Preview/Preview_5.png?raw=true "预览图 5")  
