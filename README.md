@@ -5,6 +5,9 @@
 ## 补丁目的
 对《猫头鹰男孩》的官方中文进行全面重译。
 
+## 参与成员
+全部：Virtualname
+
 ## 安装方法
 下载【Owlboy】文件夹内的文件，覆盖原来的游戏文件。
 
@@ -27,7 +30,7 @@
 * 因使用补丁而造成的任何损失，本组概不负责。   
 * 欢迎转载或用于实况，但请注明来源和相关信息。  
 
-# 效果预览
+## 效果预览
 ![预览图 0](https://github.com/VirtualCup/Owlboy_CN/blob/master/Preview/Preview_0.png?raw=true "预览图 0")  
 ![预览图 1](https://github.com/VirtualCup/Owlboy_CN/blob/master/Preview/Preview_1.png?raw=true "预览图 1")   
 ![预览图 2](https://github.com/VirtualCup/Owlboy_CN/blob/master/Preview/Preview_2.png?raw=true "预览图 2")  
